@@ -1,2 +1,6 @@
 test1
+<<<<<<< HEAD
 ändern
+=======
+ändern
+>>>>>>> 8f04fdcd848cd6e1469e630465dd7ee7b4c9360b
